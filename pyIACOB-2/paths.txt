@@ -1,8 +1,0 @@
-main=/home/cms/Desktop/PhD/0_PROJECT
-data=/media/cms/Elements/PhD/DATA/SPECTRA/Gonzalos_spectra
-maui=/Users/abelink/Documents/MAUI/
-ib=/Users/abelink/MEGA/PhD/programs/idl/broadanalys/
-mist=/Users/abelink/Documents/MIST/
-models=/media/cms/Elements/PhD/DATA/FASTWIND/
-tess=/Users/abelink/Documents/TESS/
-fastwind=/media/cms/Elements/PhD/DATA/FASTWIND/iac_gbatgrid_HHeCNO_Z100/
